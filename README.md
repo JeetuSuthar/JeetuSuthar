@@ -8,8 +8,8 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 I’m currently learning *React and Node.js*
-- 💬 Ask me about *Java, React, Node.js, or anything web-related*
+
+- 💬 Ask me about *C++, React, Node.js, or anything web-related*
 - 📫 Reach me at *jeetusuthar2315@gmail.com*
 
 ---
