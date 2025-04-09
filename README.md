@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 💬 Ask me about *C++, React, Node.js, or anything web-related*
+- 💬 Ask me about * React, Node.js, or anything web-related*
 - 📫 Reach me at *jeetusuthar2315@gmail.com*
 
 ---
