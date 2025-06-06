@@ -1,5 +1,5 @@
 
-  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeetu%20Suthar&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60)
+  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=I'm%20Jeetu%20Suthar&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60)
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
   
