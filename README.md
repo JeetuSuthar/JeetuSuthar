@@ -1,3 +1,4 @@
+<div align="center">
   ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeetu%20Suthar&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60)
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -8,9 +9,6 @@
     </a>
   </p>
   
-<h1 align="center">Hi there, I'm Jeetu Suthar! 👋</h1>
-<h3 align="center">A passionate Web/Software Developer and Competitive Programmer.</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jeetusuthar&label=Profile%20views&color=0e75b6&style=flat" alt="jeetusuthar" />
 </p>
@@ -106,3 +104,4 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeetusuthar&theme=tokyonight" alt="GitHub Streak" />
 </p>
+</div>
