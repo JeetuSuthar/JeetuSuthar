@@ -1,10 +1,10 @@
-  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abdul%20Basit%20Khan&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60)
+  ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jeetu%20Basit%20Khan&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60)
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;UI%2FUX+Enthusiast;Problem+Solver" alt="Typing SVG" />
   
   <p>
-    <a href="mailto:abdulbasitkhan2733@gmail.com">
-      <img src="https://img.shields.io/badge/-abdulbasitkhan2733@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
+    <a href="mailto:Jeetubasitkhan2733@gmail.com">
+      <img src="https://img.shields.io/badge/-Jeetubasitkhan2733@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
   </p>
   
