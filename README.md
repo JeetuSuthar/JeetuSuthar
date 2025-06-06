@@ -75,6 +75,14 @@
     </tr>
     <tr>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
+        <br>Express
+      </td>
+      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
         <br>GitHub
       </td>
@@ -89,14 +97,6 @@
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="48" height="48" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
-        <br>Express
-      </td>
-      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="48" height="48" />
         <br>PostgreSQL
       </td>
@@ -107,21 +107,6 @@
     </tr>
   </table>
 
-  <h3 align="center">🚀 Full Stack Developer 🚀</h3>
-  
-  <div align="center">
-    <img src="https://img.shields.io/badge/MERN-Stack-teal?style=for-the-badge&logo=mongodb" alt="MERN Stack" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/CI/CD-Pipeline-orange?style=for-the-badge&logo=github-actions" alt="CI/CD" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Cloud-Services-blue?style=for-the-badge&logo=amazon-aws" alt="Cloud Services" />
-  </div>
-  
-  <br />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abdulbasit2733&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  </p>
-  
+
   ![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 </div>
