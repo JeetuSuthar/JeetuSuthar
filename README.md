@@ -69,10 +69,6 @@
         <br>Node.js
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express JS" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
         <br>AWS
       </td>
