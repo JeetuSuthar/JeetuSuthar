@@ -1,3 +1,4 @@
+<!--
 <div align="center">
  
   ![Header Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=I'm%20Jeetu%20Suthar&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60)
@@ -5,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Developer;Problem+Solver" alt="Typing SVG" />
   
   <p>
-    <a href="mailto:jeetusuthar2315@gmail.com">
+     <a href="mailto:jeetusuthar2315@gmail.com">
       <img src="https://img.shields.io/badge/-jeetusuthar2315@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
-    </a>
+    </a> 
   </p>
   
 <p align="center">
@@ -110,3 +111,4 @@
 
   ![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 </div>
+-->
